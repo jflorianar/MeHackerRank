@@ -251,7 +251,7 @@
 
 #### Pramp
 - **URL**: https://www.pramp.com/
-- **Descripción**: Practice peer-to-peer
+- **Descripción**: Práctica de entrevistas entre pares
 - **Gratis**: Sí
 
 #### interviewing.io
@@ -317,8 +317,10 @@
 ## Cheat Sheets
 
 - **Python Cheat Sheet**: https://www.pythoncheatsheet.org/
-- **Python for Data Science**: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
+- **Python for Data Science**: https://www.datacamp.com/cheat-sheet (verificar disponibilidad)
 - **Algorithms Cheat Sheet**: https://algs4.cs.princeton.edu/cheatsheet/
+
+> **Nota**: Algunos enlaces externos pueden cambiar con el tiempo. Si encuentras un enlace roto, busca el recurso actualizado o reporta el problema.
 
 ---
 
