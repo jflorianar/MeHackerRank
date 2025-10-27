@@ -101,12 +101,14 @@ if __name__ == '__main__':
 
 Formato recomendado:
 ```
-[Categoría] Título del Problema - Dificultad
+Add: [Nombre del Problema] - [Dificultad]
+Update: [Nombre del Problema] - [Descripción del cambio]
 
 Ejemplos:
-Add: [Python] Hello World - Easy
-Update: [Algorithms] Binary Search - Optimized solution
-Fix: [Data Structures] Linked List - Edge case handling
+Add: Simple Array Sum - Easy
+Add: Binary Search - Medium
+Update: Merge Sort - Optimized solution
+Fix: Two Sum - Edge case handling
 ```
 
 ### 6. Pull Request (Si haces fork)

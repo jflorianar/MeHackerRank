@@ -78,11 +78,7 @@ Si prefieres mantener tu código en GitHub sin conexión directa:
 
 2. **Incluye el link en tu commit:**
    ```bash
-   git commit -m "Add: Two Sum problem
-   
-   URL: https://www.hackerrank.com/challenges/two-sum
-   Difficulty: Easy
-   Status: Solved"
+   git commit -m "Add: Two Sum problem - Easy" -m "URL: https://www.hackerrank.com/challenges/two-sum"
    ```
 
 ### Opción 3: GitHub en tu Perfil de HackerRank
@@ -184,8 +180,8 @@ Usa estos prefijos para tus commits:
 
 Ejemplo:
 ```bash
-git commit -m "Add: Solve 'Two Sum' problem - Easy"
-git commit -m "Update: Optimize 'Binary Search' with O(log n) solution"
+git commit -m "Add: Simple Array Sum - Easy"
+git commit -m "Update: Binary Search - Optimized O(log n) solution"
 ```
 
 ## 🤝 Contribuir

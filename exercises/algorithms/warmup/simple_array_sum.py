@@ -31,7 +31,10 @@ def simpleArraySum(ar):
     return sum(ar)
 
 if __name__ == '__main__':
-    # Ejemplo de uso
+    # Lee el tamaño del array (n) y luego el array de enteros
+    # Formato de entrada estándar de HackerRank:
+    # Línea 1: n (número de elementos)
+    # Línea 2: elementos del array separados por espacios
     n = int(input())
     ar = list(map(int, input().split()))
     result = simpleArraySum(ar)
